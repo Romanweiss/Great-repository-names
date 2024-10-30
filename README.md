@@ -22,7 +22,7 @@
 #### Установка
 1. Клонируйте репозиторий:
 ``` bash
-git clone https://github.com/yourusername/great-repository-names.git
+git clone https://github.com/Romanweiss/Great-repository-names.git
 cd great-repository-names
 ```
 2. Установите необходимые зависимости:
