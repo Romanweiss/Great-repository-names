@@ -1,6 +1,6 @@
 # __Great repository names__
 
-[![N|Solid](https://clck.ru/3EGrVA)](https://blog.reedsy.com/character-name-generator/)
+[![N|Solid](https://images.freeimages.com/fic/images/icons/2076/pacman_returns/256/octopus.png)](https://blog.reedsy.com/character-name-generator/)
 
 
 ***Great Repository Names*** - это генератор уникальных и привлекательных названий для репозиториев. Идеально подходит для разработчиков, которым нужно быстро подобрать креативное и запоминающееся имя для своего проекта!
